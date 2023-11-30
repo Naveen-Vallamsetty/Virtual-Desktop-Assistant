@@ -26,4 +26,4 @@ i. taget file path with escape sequence \\
 ii. 'name1': 'name1's mail id',
 
 
-# If you want to add any features please request me using pull request.
+# If you want to add any features please request me using push request.
